@@ -1,7 +1,9 @@
 **Author:** Safal
+
 **Date:** 2025-10-22  
+
 **Tools:** Splunk (analysis & export), whois lookup  
-**Purpose:** Reproduce and explain the steps used to detect and analyze an RDP brute-force attempt on a Windows host.
+
 
 Challenge URL: https://blueteamlabs.online/home/challenge/bruteforce-16629bf9a2 
 
