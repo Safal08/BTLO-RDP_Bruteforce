@@ -33,3 +33,8 @@ Deleted or modified local exploit files (e.g., evil binaries).
 sudoedit -s "AAAA...\" "\" "BBBB..."
 
 The overly long or specially crafted strings overflow sudoedit’s memory and spawn a root shell.
+
+
+**Takeways**
+1. Analysis of linux audit entry log
+2. Use of cut, grep, uniq and sort command to find the necessary artifacts.
